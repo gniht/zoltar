@@ -9,6 +9,9 @@ body {
   background-color: black;
   color: white;  
 }
+button {
+  background-color: black;
+}
 h2 {
   text-align: right;
 }
